@@ -1,0 +1,4 @@
+map_name: Europe-Revised
+games:
+- {game_name: Europe - Revised, file_name: Europe-Revised.xml}
+version: 0
